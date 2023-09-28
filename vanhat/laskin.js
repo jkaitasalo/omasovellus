@@ -1,3 +1,7 @@
+/*
+LASKIN App.js
+*/
+
 import React, { useState } from 'react';
 import { View, Text, TextInput, TouchableOpacity, StyleSheet, Button } from 'react-native';
 
